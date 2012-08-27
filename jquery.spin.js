@@ -1,5 +1,8 @@
 /*
 
+Code from Bradley Smith: https://gist.github.com/1290439
+
+
 You can now create a spinner using any of the variants below:
 
 $("#el").spin(); // Produces default Spinner using the text color of #el.
